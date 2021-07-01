@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/allan-mecanico/.dotnet/store/|arch|/|tfm|",
+      "/home/allan-mecanico/.nuget/packages"
+    ]
+  }
+}
